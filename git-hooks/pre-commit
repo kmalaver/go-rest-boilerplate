@@ -1,0 +1,6 @@
+#!/bin/sh
+
+# put your rules here
+
+echo "Running pre-commit hook"
+

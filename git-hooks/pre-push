@@ -1,0 +1,5 @@
+#!/bin/sh
+
+# put your rules here
+
+echo "Running pre-push hook"

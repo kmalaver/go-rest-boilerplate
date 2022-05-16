@@ -1,0 +1,10 @@
+table: users
+records:
+  - id: 1
+    email: "admin@test.com"
+    password: "password"
+  - id: 2
+    email: ""
+    password: "password"
+
+    
